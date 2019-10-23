@@ -3,7 +3,11 @@ Just give a csv file (which contains your words) to the app and specify a destin
 Make sure your words are in seperate rows like this: 
 
 absorb,
+
 abstract,
+
 speak,
+
 listen,
+
 find,
